@@ -50,20 +50,9 @@ java TC_03_AddCart
 Expected Output
 If the product is added to the cart successfully, the console should display:
 
-nginx
-Copy
-Edit
+
 Test Passed
 Otherwise:
 
-nginx
-Copy
-Edit
 Test Failed
-Notes
-This script uses implicit waits and thread sleeps. Consider switching to WebDriverWait for better reliability.
-
-The site used (https://cloudberrystore.services/) should be up and accessible at runtime.
-
-Ensure you have stable internet access when executing the test.
 
